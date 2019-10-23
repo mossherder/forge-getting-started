@@ -1,0 +1,6 @@
+.adsk-viewing-viewer {
+    position: relative !important;
+}
+#forge-viewer {
+    height: calc(100%);
+}

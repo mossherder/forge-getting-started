@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block viewer_head %}
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=no" />
+<meta charset="utf-8">
+<!-- The Viewer CSS -->
+<link rel="stylesheet" href="{{ url_for('static',filename='styles/viewer.css') }}?v={{version}}" type="text/css">
+<link rel="stylesheet" href="https://developer.api.autodesk.com/modelderivative/v2/viewers/6.*/style.min.css" type="text/css">
+{% endblock %}
+{% block viewer_body %}
+<div id="forge-viewer">
+</div>
+{% endblock %}
+{% block viewer_scripts %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!-- The Viewer JS -->
+<script src="https://developer.api.autodesk.com/modelderivative/v2/viewers/6.*/viewer3D.min.js"></script>
+<script src="{{ url_for('static',filename='js/dist/forgeapp.bundle.js') }}?v={{version}}"></script>
+{% endblock %}
