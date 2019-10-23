@@ -1,0 +1,412 @@
+{
+    "data": {
+        "type": "metadata",
+        "metadata": [
+            {
+                "name": "3D",
+                "role": "3d",
+                "guid": "c3ed66e5-b5b6-4fd6-88f7-543bc24b6b83"
+            },
+            {
+                "name": "EL101 - First Floor - Lighting Plan",
+                "role": "2d",
+                "guid": "8b6b0860-bc78-65c4-cc75-09740ad915b2"
+            },
+            {
+                "name": "EA001 - Title Sheet - Sheet Index",
+                "role": "2d",
+                "guid": "6d1c1331-4a6d-57de-c2b2-2fde636884ba"
+            },
+            {
+                "name": "EC101 - Electrical Site Plan",
+                "role": "2d",
+                "guid": "144d6820-1aaf-7df2-a98e-cd0eeff9b411"
+            },
+            {
+                "name": "EP101 - First Floor - Power Plan",
+                "role": "2d",
+                "guid": "d3dd7a0c-39b5-0f03-cf5a-4cab58af95c4"
+            },
+            {
+                "name": "EE101 - Electrical One-Line Diagram",
+                "role": "2d",
+                "guid": "476ba842-8cce-bc76-37a6-a29ee258bc1e"
+            },
+            {
+                "name": "ET101 - First Floor - Telecommunications Plan",
+                "role": "2d",
+                "guid": "efd24a7d-62af-5c37-520e-e813b2e4e4f1"
+            },
+            {
+                "name": "EL801 - Lighting Fixture Schedule",
+                "role": "2d",
+                "guid": "705c3b41-18a7-7a1f-4af8-82b399fbdab9"
+            },
+            {
+                "name": "EP801 - Equipment Schedule (General And Special Outlet)",
+                "role": "2d",
+                "guid": "aa7d73dc-5094-c380-9b19-a6543d458d45"
+            },
+            {
+                "name": "EP803 - Electrical Panel Schedules",
+                "role": "2d",
+                "guid": "68d53a7e-ef37-aca9-58cd-c86b17c305e2"
+            },
+            {
+                "name": "EP802 - Equipment Schedule (HVAC And Plumbing)",
+                "role": "2d",
+                "guid": "3b6bd5a3-c904-6beb-6afb-0a2692418684"
+            },
+            {
+                "name": "EL802 - Lighting Controls Schedule",
+                "role": "2d",
+                "guid": "a1cf9107-b97b-bb5d-e954-19e41a4ef914"
+            },
+            {
+                "name": "EE102 - Electrical One-Line Diagram",
+                "role": "2d",
+                "guid": "1b78a22c-d5af-2a33-e6bc-5ae0dd7909d6"
+            },
+            {
+                "name": "EE103 - Electrical One-Line Diagram",
+                "role": "2d",
+                "guid": "9b88a371-2490-543a-79f2-b87f24af12a5"
+            },
+            {
+                "name": "EL102 - Second Floor - Lighting Plan",
+                "role": "2d",
+                "guid": "9ed94b1f-c9cd-09a1-3fde-26d26a044331"
+            },
+            {
+                "name": "EL001 - Lighting - Title Sheet - Sheet Index",
+                "role": "2d",
+                "guid": "2b987a4b-8a5d-99b1-34a2-465dfc71080e"
+            },
+            {
+                "name": "EP102 - Second Floor - Power Plan",
+                "role": "2d",
+                "guid": "cadf2f0d-47b0-0987-a12e-36118c9eb886"
+            },
+            {
+                "name": "EP001 - Power - Title Sheet - Sheet Index",
+                "role": "2d",
+                "guid": "85201b45-f1cb-b73e-64d1-b94c46cb5b51"
+            },
+            {
+                "name": "EP103 - Third Floor - Power Plan",
+                "role": "2d",
+                "guid": "0a6b90f0-5fc6-4048-b3f1-e2cdb4cf8b3b"
+            },
+            {
+                "name": "EP104 - Fourth Floor - Power Plan",
+                "role": "2d",
+                "guid": "4d5e5903-7ec4-b5a8-033d-ff5be2b16505"
+            },
+            {
+                "name": "EL103 - Third Floor - Lighting Plan",
+                "role": "2d",
+                "guid": "e66fac5f-0efd-5dd4-d779-3ccd18bcb306"
+            },
+            {
+                "name": "EL104 - Fourth Floor - Lighting Plan",
+                "role": "2d",
+                "guid": "3d0047ce-7e39-d458-045f-04644c378025"
+            },
+            {
+                "name": "ET001 - Telecommunications - Title Sheet - Sheet Index",
+                "role": "2d",
+                "guid": "425815ef-5407-f206-2530-a134d448d2d6"
+            },
+            {
+                "name": "ET102 - Second Floor - Telecommunications Plan",
+                "role": "2d",
+                "guid": "d2ec1511-e3f3-0f7a-983f-4430d008fa94"
+            },
+            {
+                "name": "ET103 - Third Floor - Telecommunications Plan",
+                "role": "2d",
+                "guid": "5b774349-bb07-0dc6-d567-71c0ea47f918"
+            },
+            {
+                "name": "ET104 - Fourth Floor - Telecommunications Plan",
+                "role": "2d",
+                "guid": "22d7d961-fafe-ac73-3f60-abd9308d6e4b"
+            },
+            {
+                "name": "EY001 - Low Voltage Systems - Title Sheet - Sheet Index",
+                "role": "2d",
+                "guid": "49b5264f-c6b8-b403-4b63-9dac3fdec2bf"
+            },
+            {
+                "name": "EY101 - First Floor - Low Voltage Systems Plan",
+                "role": "2d",
+                "guid": "4335427d-f624-eea5-ab27-0cf7963663f5"
+            },
+            {
+                "name": "EY102 - Second Floor - Low Voltage Systems Plan",
+                "role": "2d",
+                "guid": "bf94d79e-40a7-2887-6ede-0fcf9dfe7674"
+            },
+            {
+                "name": "EY103 - Third Floor - Low Voltage Systems Plan",
+                "role": "2d",
+                "guid": "0109e335-1286-9d34-cf1c-780d3894650d"
+            },
+            {
+                "name": "EY104 - Fourth Floor - Low Voltage Systems Plan",
+                "role": "2d",
+                "guid": "f307f453-072e-a1ed-3eb8-93edbab78699"
+            },
+            {
+                "name": "FA001 - Fire Alarm - Title Sheet - Sheet Index",
+                "role": "2d",
+                "guid": "fd174398-252e-a00e-3745-64ef753e9bf9"
+            },
+            {
+                "name": "FA101 - First Floor - Fire Alarm Plan",
+                "role": "2d",
+                "guid": "4f57335c-3b5c-5706-f870-35e1a26ce4f5"
+            },
+            {
+                "name": "FA102 - Second Floor - Fire Alarm Plan",
+                "role": "2d",
+                "guid": "36a8d460-b63b-3fd2-e526-4eed92f98778"
+            },
+            {
+                "name": "FA103 - Third Floor - Fire Alarm Plan",
+                "role": "2d",
+                "guid": "ba38cfe9-5b5c-c11a-5652-73e80035b993"
+            },
+            {
+                "name": "FA104 - Fourth Floor - Fire Alarm Plan",
+                "role": "2d",
+                "guid": "391960be-59cc-df6e-0e0b-32ef556ed166"
+            },
+            {
+                "name": "FA601 - Fire Alarm - Riser Diagram",
+                "role": "2d",
+                "guid": "d3a3c86f-9ae2-ad69-1532-f11e42541049"
+            },
+            {
+                "name": "EE001 - One-Line - Title Sheet - Sheet Index",
+                "role": "2d",
+                "guid": "f71ede68-6926-c42e-ab27-54f682238bfc"
+            },
+            {
+                "name": "EN001 - Normal Lighting Photometric - Title Sheet - Sheet Index",
+                "role": "2d",
+                "guid": "af031a53-e28d-ef43-5034-31ffd23c8e7f"
+            },
+            {
+                "name": "EN101 - First Floor - Normal Lighting Photometric Plan",
+                "role": "2d",
+                "guid": "512d3a98-5f09-df70-7a26-bb503551a674"
+            },
+            {
+                "name": "EN102 - Second Floor - Normal Lighting Photometric Plan",
+                "role": "2d",
+                "guid": "c5cfee4e-4510-e911-ddf4-aa72d932375a"
+            },
+            {
+                "name": "EN103 - Third Floor - Normal Lighting Photometric Plan",
+                "role": "2d",
+                "guid": "1a022738-9fa8-213e-2286-fe3e7e16b467"
+            },
+            {
+                "name": "EN104 - Fourth Floor - Normal Lighting Photometric Plan",
+                "role": "2d",
+                "guid": "8116ec1b-8b23-0cb9-d5dd-6dcbcd6de587"
+            },
+            {
+                "name": "EM001 - Emergency Lighting Photometric - Title Sheet - Sheet Index",
+                "role": "2d",
+                "guid": "033ecf2c-b9ac-03d3-87fe-3ef9dd37893c"
+            },
+            {
+                "name": "EM101 - First Floor - Emergency Lighting Photometric Plan",
+                "role": "2d",
+                "guid": "d62d1177-34af-cd8a-512d-8bcf655d5332"
+            },
+            {
+                "name": "EM102 - Second Floor - Emergency Lighting Photometric Plan",
+                "role": "2d",
+                "guid": "a9ed9502-e90b-6648-e514-555e4dfe2255"
+            },
+            {
+                "name": "EM103 - Third Floor - Emergency Lighting Photometric Plan",
+                "role": "2d",
+                "guid": "3d21d768-7ce2-56bf-c7d3-3f505c2cedd2"
+            },
+            {
+                "name": "EM104 - Fourth Floor - Emergency Lighting Photometric Plan",
+                "role": "2d",
+                "guid": "ec38665d-f77f-bad6-0bd8-abed631b9768"
+            },
+            {
+                "name": "EC001 - Site - Title Sheet - Sheet Index",
+                "role": "2d",
+                "guid": "1497c8d2-83cc-f318-0f5c-8ef436411b66"
+            },
+            {
+                "name": "A0A0_4 - Panel Build_SubPanel_A0A0",
+                "role": "2d",
+                "guid": "bed214fc-1e56-09ba-db46-c1bd7ad283cb"
+            },
+            {
+                "name": "A0A1_4 - Panel Build_SubPanel_A0A1",
+                "role": "2d",
+                "guid": "0ed31f8e-9f6b-06b5-d2fb-18a7fa5920b9"
+            },
+            {
+                "name": "A0A2_4 - Panel Build_SubPanel_A0A2",
+                "role": "2d",
+                "guid": "8a9455b9-f828-dd8a-52c6-7a0b20dee198"
+            },
+            {
+                "name": "B0B1_4 - Panel Build_SubPanel_B0B1",
+                "role": "2d",
+                "guid": "93df2876-5831-4c51-94ef-f533b3c2c982"
+            },
+            {
+                "name": "B0B0_4 - Panel Build_SubPanel_B0B0",
+                "role": "2d",
+                "guid": "a51f7ce0-f963-b08c-682d-a60a169a8cb2"
+            },
+            {
+                "name": "B0B2_4 - Panel Build_SubPanel_B0B2",
+                "role": "2d",
+                "guid": "90936606-060f-000a-4b7c-fb3e47757e93"
+            },
+            {
+                "name": "A0A0_3 - Panel Build_Gutter_A0A0",
+                "role": "2d",
+                "guid": "d97bed07-451d-505e-b238-fb49c2981e94"
+            },
+            {
+                "name": "A0A1_3 - Panel Build_Gutter_A0A1",
+                "role": "2d",
+                "guid": "d744dd9c-23af-e71e-7c47-3b039a10eafc"
+            },
+            {
+                "name": "A0A2_3 - Panel Build_Gutter_A0A2",
+                "role": "2d",
+                "guid": "9b55d56f-54b5-ffb5-6c35-1c9595873228"
+            },
+            {
+                "name": "B0B1_3 - Panel Build_Gutter_B0B1",
+                "role": "2d",
+                "guid": "5ee1b489-3036-1c49-4682-a631f56b38bf"
+            },
+            {
+                "name": "B0B0_3 - Panel Build_Gutter_B0B0",
+                "role": "2d",
+                "guid": "041bc772-adf8-a7f6-8275-115655bb59d2"
+            },
+            {
+                "name": "B0B2_3 - Panel Build_Gutter_B0B2",
+                "role": "2d",
+                "guid": "6de7388e-edd5-4688-76cd-47d75a18b1c9"
+            },
+            {
+                "name": "A0A0_2 - Panel Build_Conduit_A0A0",
+                "role": "2d",
+                "guid": "af9d6372-4804-114a-4d55-10b2b058c3e1"
+            },
+            {
+                "name": "A0A1_2 - Panel Build_Conduit_A0A1",
+                "role": "2d",
+                "guid": "b8641b79-1c70-2b18-aaf1-07863613af1b"
+            },
+            {
+                "name": "A0A2_2 - Panel Build_Conduit_A0A2",
+                "role": "2d",
+                "guid": "38210ca3-6cfa-63cd-ec91-34eef6f645f1"
+            },
+            {
+                "name": "B0B1_2 - Panel Build_Conduit_B0B1",
+                "role": "2d",
+                "guid": "5bac6e5f-0711-2b57-40a3-de68bcad1e55"
+            },
+            {
+                "name": "B0B0_2 - Panel Build_Conduit_B0B0",
+                "role": "2d",
+                "guid": "e1487651-501f-54bb-d8bd-16e37cfceef2"
+            },
+            {
+                "name": "B0B2_2 - Panel Build_Conduit_B0B2",
+                "role": "2d",
+                "guid": "05d8783e-70ed-44eb-e84c-f0b709a6c753"
+            },
+            {
+                "name": "A0A0_1 - Panel Build_Strut Frame_A0A0",
+                "role": "2d",
+                "guid": "c08f22a0-7e0e-c814-5454-fc19563eebb4"
+            },
+            {
+                "name": "A0A1_1 - Panel Build_Strut Frame_A0A1",
+                "role": "2d",
+                "guid": "197df50b-0e14-968c-6195-f6fa23659632"
+            },
+            {
+                "name": "A0A2_1 - Panel Build_Strut Frame_A0A2",
+                "role": "2d",
+                "guid": "13b7c2aa-f255-cc5f-f3c3-6b71b059e6de"
+            },
+            {
+                "name": "B0B1_1 - Panel Build_Strut Frame_B0B1",
+                "role": "2d",
+                "guid": "a35c002b-a648-c62f-32cf-2b151d388727"
+            },
+            {
+                "name": "B0B0_1 - Panel Build_Strut Frame_B0B0",
+                "role": "2d",
+                "guid": "ae59a267-492a-d234-3ed8-cfbf7f7a7c81"
+            },
+            {
+                "name": "B0B2_1 - Panel Build_Strut Frame_B0B2",
+                "role": "2d",
+                "guid": "8584b446-fb9f-c3df-7d89-bc947e61ae10"
+            },
+            {
+                "name": "A0A0_0 - Panel Build_Overall_A0A0",
+                "role": "2d",
+                "guid": "3cb5cb85-f89f-e045-c7b0-7f78033ce27e"
+            },
+            {
+                "name": "A0A1_0 - Panel Build_Overall_A0A1",
+                "role": "2d",
+                "guid": "328ba1ef-f41b-0ff7-c237-e7f616c5f0ed"
+            },
+            {
+                "name": "A0A2_0 - Panel Build_Overall_A0A2",
+                "role": "2d",
+                "guid": "fc326169-97f7-43a6-b376-9010d7b48d0e"
+            },
+            {
+                "name": "B0B1_0 - Panel Build_Overall_B0B1",
+                "role": "2d",
+                "guid": "d273c906-e868-43c8-2e7d-3f8df8fd62a3"
+            },
+            {
+                "name": "B0B0_0 - Panel Build_Overall_B0B0",
+                "role": "2d",
+                "guid": "ba2b8ddd-d8a1-ca5e-3df8-4791c95d65df"
+            },
+            {
+                "name": "B0B2_0 - Panel Build_Overall_B0B2",
+                "role": "2d",
+                "guid": "f402c0d4-31ea-384b-aee9-76b7dff340be"
+            },
+            {
+                "name": "PB_AA - Panel Build_Coversheet_AA",
+                "role": "2d",
+                "guid": "b15c6e49-ff4c-0aaa-b7f4-ba8cc348ba77"
+            },
+            {
+                "name": "PB_BB - Panel Build_Coversheet_BB",
+                "role": "2d",
+                "guid": "dbf48feb-cf80-5349-7d25-d456910f0671"
+            }
+        ]
+    }
+}

@@ -1,0 +1,208 @@
+[
+    {'name': 'Faith Technologies', 'id': 'a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2', 'projects': [
+            {'name': 'EL Sandbox 2017', 'id': 'a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx', 'folders': [
+                    [
+                        {'name': 'group-23360756', 'id': 'urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg', 'sub_folders': [
+                                {'name': 'Auto Documentation', 'id': 'urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ', 'sub_folders': [
+                                        {'sub_folders': [], 'items': [
+                                                {'name': 'Project Name - Arch.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:Na3nqEBsS1GK64iGykUsVg'
+                                                },
+                                                {'name': 'Room In A Tote - Test Project  - Famlies Update.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:-KBZDTu2Q8eqbHVzoVzqSw'
+                                                },
+                                                {'name': 'Room In A Tote - Test Project.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:-eRAvTeqRJK3MbCCWvtx0w'
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {'name': 'SPC1A', 'id': 'urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ', 'sub_folders': [
+                                        {'sub_folders': [], 'items': [
+                                                {'name': 'SPC1A_DC_ARCH.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:g4WMfRpNTniIPc3oUh7Lbg'
+                                                },
+                                                {'name': 'SPC1A_DC_ELEC_CLUSTER.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:UpvGCp2FQ3Gb5HyWVXtYvg'
+                                                },
+                                                {'name': 'SPC1A_DC_ELEC_EQUIP 2.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:HE8NG12tQRCau3DWzUTvjA'
+                                                },
+                                                {'name': 'SPC1A_DC_ELEC_LIGHT.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:sqvEeO4QTWGHa7aLaKPmtg'
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ], 'items': [
+                                {'name': 'CCNR Sample.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ'
+                                },
+                                {'name': 'Duct Bank Spacer Model.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug'
+                                },
+                                {'name': 'Panel Build Sample - v2.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ'
+                                },
+                                {'name': 'Panel Build Sample.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g'
+                                },
+                                {'name': 'Room in a Tote Sample.rvt', 'id': 'urn:adsk.wipprod:dm.lineage: 9up0K3ftSnCdGibFDKCwXw'
+                                },
+                                {'name': 'SPC1A_DC_ELEC_EQUIP 2.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA'
+                                }
+                            ]
+                        }
+                    ]
+                ], 'items': [
+                    []
+                ]
+            }
+        ]
+    }
+]
+
+[
+    {'text': 'Faith Technologies', 'id': 'a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2', 'children': [
+            {'text': 'EL Sandbox 2017', 'id': 'a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx', 'children': [
+                    [
+                        {'text': 'group-23360756', 'id': 'urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg', 'children': [
+                                {'text': 'Auto Documentation', 'id': 'urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ', 'children': [
+                                        {'children': [
+                                                {'text': 'Project Name - Arch.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:Na3nqEBsS1GK64iGykUsVg'
+                                                },
+                                                {'text': 'Room In A Tote - Test Project  - Famlies Update.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:-KBZDTu2Q8eqbHVzoVzqSw'
+                                                },
+                                                {'text': 'Room In A Tote - Test Project.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:-eRAvTeqRJK3MbCCWvtx0w'
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {'text': 'SPC1A', 'id': 'urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ', 'children': [
+                                        {'children': [
+                                                {'text': 'SPC1A_DC_ARCH.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:g4WMfRpNTniIPc3oUh7Lbg'
+                                                },
+                                                {'text': 'SPC1A_DC_ELEC_CLUSTER.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:UpvGCp2FQ3Gb5HyWVXtYvg'
+                                                },
+                                                {'text': 'SPC1A_DC_ELEC_EQUIP 2.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:HE8NG12tQRCau3DWzUTvjA'
+                                                },
+                                                {'text': 'SPC1A_DC_ELEC_LIGHT.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:sqvEeO4QTWGHa7aLaKPmtg'
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {'text': 'CCNR Sample.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ'
+                                },
+                                {'text': 'Duct Bank Spacer Model.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug'
+                                },
+                                {'text': 'Panel Build Sample - v2.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ'
+                                },
+                                {'text': 'Panel Build Sample.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g'
+                                },
+                                {'text': 'Room in a Tote Sample.rvt', 'id': 'urn:adsk.wipprod:dm.lineage: 9up0K3ftSnCdGibFDKCwXw'
+                                },
+                                {'text': 'SPC1A_DC_ELEC_EQUIP 2.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA'
+                                }
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ]
+    }
+]
+
+[
+    {'text': 'Faith Technologies', 'id': 'a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2', 'children': [
+            {'text': 'EL Sandbox 2017', 'id': 'a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx', 'children': [
+                    [
+                        {'text': 'group-23360756', 'id': 'urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg', 'children': [
+                                {'text': 'Auto Documentation', 'id': 'urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ', 'children': [
+                                        [
+                                            {'text': 'Project Name - Arch.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:Na3nqEBsS1GK64iGykUsVg'
+                                            },
+                                            {'text': 'Room In A Tote
+    - Test Project  - Famlies Update.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:-KBZDTu2Q8eqbHVzoVzqSw'
+                                            },
+                                            {'text': 'Room In A Tote - Test Project.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:-eRAvTeqRJK3MbCCWvtx0w'
+                                            }
+                                        ]
+                                    ]
+                                },
+                                {'text': 'SPC1A', 'id': 'urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ', 'children': [
+                                        [
+                                            {'text': 'SPC1A_DC_ARCH.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:g4WMfRpNTniIPc3oUh7Lbg'
+                                            },
+                                            {'text': 'SPC1A_DC_ELEC_CLUSTER.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:UpvGCp2FQ3Gb5HyWVXtYvg'
+                                            },
+                                            {'text': 'SPC1A_DC_ELEC_EQUIP 2.rvt', 'id':
+    'urn:adsk.wipprod:dm.lineage:HE8NG12tQRCau3DWzUTvjA'
+                                            },
+                                            {'text': 'SPC1A_DC_ELEC_LIGHT.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:sqvEeO4QTWGHa7aLaKPmtg'
+                                            }
+                                        ]
+                                    ]
+                                },
+                                {'text': 'CCNR Sample.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ'
+                                },
+                                {'text': 'Duct Bank Spacer Model.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug'
+                                },
+                                {'text': 'Panel Build Sample - v2.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ'
+                                },
+                                {'text': 'Panel Build Sample.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g'
+                                },
+                                {'text': 'Room in a Tote Sample.rvt', 'id': 'urn:adsk.wipprod:dm.lineage: 9up0K3ftSnCdGibFDKCwXw'
+                                },
+                                {'text': 'SPC1A_DC_ELEC_EQUIP 2.rvt', 'id': 'urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA'
+                                }
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ]
+    }
+]
+
+[
+    {'children': [
+            {'children': [
+                    [
+                        {'children': [
+                                {'children': [
+                                        [
+                                            {'id': 'urn:adsk.wipprod:dm.lineage:Na3nqEBsS1GK64iGykUsVg', 'text': 'Project Name - Arch.rvt'
+                                            },
+                                            {'id': 'urn:adsk.wipprod:dm.lineage:-KBZDTu2Q8eqbHVzoVzqSw', 'text': 'Room In A Tote - Test Project  - Famlies Update.rvt'
+                                            },
+                                            {'id': 'urn:adsk.wipprod:dm.lineage:-eRAvTeqRJK3MbCCWvtx0w', 'text': 'Room In A Tote - Test Project.rvt'
+                                            }
+                                        ]
+                                    ], 'id': 'urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ', 'text': 'Auto Documentation'
+                                },
+                                {'children': [
+                                        [
+                                            {'id': 'urn:adsk.wipprod:dm.lineage:g4WMfRpNTniIPc3oUh7Lbg', 'text': 'SPC1A_DC_ARCH.rvt'
+                                            },
+                                            {'id': 'urn:adsk.wipprod:dm.lineage:UpvGCp2FQ3Gb5HyWVXtYvg', 'text': 'SPC1A_DC_ELEC_CLUSTER.rvt'
+                                            },
+                                            {'id': 'urn:adsk.wipprod:dm.lineage:HE8NG12tQRCau3DWzUTvjA', 'text': 'SPC1A_DC_ELEC_EQUIP 2.rvt'
+                                            },
+                                            {'id': 'urn:adsk.wipprod:dm.lineage:sqvEeO4QTWGHa7aLaKPmtg', 'text': 'SPC1A_DC_ELEC_LIGHT.rvt'
+                                            }
+                                        ]
+                                    ], 'id': 'urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ', 'text': 'SPC1A'
+                                },
+                                {'id': 'urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ', 'text': 'CCNR Sample.rvt'
+                                },
+                                {'id': 'urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug', 'text': 'Duct Bank Spacer Model.rvt'
+                                },
+                                {'id': 'urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ', 'text': 'Panel Build Sample - v2.rvt'
+                                },
+                                {'id': 'urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g', 'text': 'Panel Build Sample.rvt'
+                                },
+                                {'id': 'urn:adsk.wipprod:dm.lineage: 9up0K3ftSnCdGibFDKCwXw', 'text': 'Room in a Tote Sample.rvt'
+                                },
+                                {'id': 'urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA', 'text': 'SPC1A_DC_ELEC_EQUIP 2.rvt'
+                                }
+                            ], 'id': 'urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg', 'text': 'group-23360756'
+                        }
+                    ]
+                ], 'id': 'a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx', 'text': 'EL Sandbox 2017'
+            }
+        ], 'id': 'a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2', 'text': 'Faith Technologies'
+    }
+]

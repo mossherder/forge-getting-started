@@ -1,0 +1,218 @@
+[
+    {
+        "canOpen": false,
+        "children": [
+            {
+                "canOpen": false,
+                "children": [
+                    {
+                        "canOpen": false,
+                        "children": [
+                            {
+                                "canOpen": false,
+                                "children": [
+                                    {
+                                        "canOpen": false,
+                                        "children": [
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.Na3nqEBsS1GK64iGykUsVg?version=2",
+                                                "text": "2018-06-07T17:43:00.0000000Z"
+                                            },
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.Na3nqEBsS1GK64iGykUsVg?version=1",
+                                                "text": "2018-05-01T15:00:07.0000000Z"
+                                            }
+                                        ],
+                                        "icon": "/static/styles/overview/file-icon.png",
+                                        "id": "urn:adsk.wipprod:dm.lineage:Na3nqEBsS1GK64iGykUsVg",
+                                        "text": "Project Name - Arch.rvt"
+                                    },
+                                    {
+                                        "canOpen": false,
+                                        "children": [
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.-KBZDTu2Q8eqbHVzoVzqSw?version=1",
+                                                "text": "2018-05-10T20:27:11.0000000Z"
+                                            }
+                                        ],
+                                        "icon": "/static/styles/overview/file-icon.png",
+                                        "id": "urn:adsk.wipprod:dm.lineage:-KBZDTu2Q8eqbHVzoVzqSw",
+                                        "text": "Room In A Tote - Test Project  - Famlies Update.rvt"
+                                    },
+                                    {
+                                        "canOpen": false,
+                                        "children": [
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.-eRAvTeqRJK3MbCCWvtx0w?version=3",
+                                                "text": "2018-07-20T20:37:16.0000000Z"
+                                            },
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.-eRAvTeqRJK3MbCCWvtx0w?version=2",
+                                                "text": "2018-07-05T21:16:27.0000000Z"
+                                            },
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.-eRAvTeqRJK3MbCCWvtx0w?version=1",
+                                                "text": "2018-05-01T15:02:09.0000000Z"
+                                            }
+                                        ],
+                                        "icon": "/static/styles/overview/file-icon.png",
+                                        "id": "urn:adsk.wipprod:dm.lineage:-eRAvTeqRJK3MbCCWvtx0w",
+                                        "text": "Room In A Tote - Test Project.rvt"
+                                    }
+                                ],
+                                "icon": "/static/styles/overview/folder-icon.png",
+                                "id": "urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ",
+                                "text": "Auto Documentation"
+                            },
+                            {
+                                "canOpen": false,
+                                "children": [
+                                    {
+                                        "canOpen": false,
+                                        "children": [
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.g4WMfRpNTniIPc3oUh7Lbg?version=2",
+                                                "text": "2018-06-07T17:54:46.0000000Z"
+                                            },
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.g4WMfRpNTniIPc3oUh7Lbg?version=1",
+                                                "text": "2018-05-01T21:15:53.0000000Z"
+                                            }
+                                        ],
+                                        "icon": "/static/styles/overview/file-icon.png",
+                                        "id": "urn:adsk.wipprod:dm.lineage:g4WMfRpNTniIPc3oUh7Lbg",
+                                        "text": "SPC1A_DC_ARCH.rvt"
+                                    },
+                                    {
+                                        "canOpen": false,
+                                        "children": [
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.UpvGCp2FQ3Gb5HyWVXtYvg?version=2",
+                                                "text": "2018-06-07T18:18:30.0000000Z"
+                                            },
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.UpvGCp2FQ3Gb5HyWVXtYvg?version=1",
+                                                "text": "2018-05-01T21:12:48.0000000Z"
+                                            }
+                                        ],
+                                        "icon": "/static/styles/overview/file-icon.png",
+                                        "id": "urn:adsk.wipprod:dm.lineage:UpvGCp2FQ3Gb5HyWVXtYvg",
+                                        "text": "SPC1A_DC_ELEC_CLUSTER.rvt"
+                                    },
+                                    {
+                                        "canOpen": false,
+                                        "children": [
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.HE8NG12tQRCau3DWzUTvjA?version=1",
+                                                "text": "2018-06-01T18:49:23.0000000Z"
+                                            }
+                                        ],
+                                        "icon": "/static/styles/overview/file-icon.png",
+                                        "id": "urn:adsk.wipprod:dm.lineage:HE8NG12tQRCau3DWzUTvjA",
+                                        "text": "SPC1A_DC_ELEC_EQUIP 2.rvt"
+                                    },
+                                    {
+                                        "canOpen": false,
+                                        "children": [
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.sqvEeO4QTWGHa7aLaKPmtg?version=2",
+                                                "text": "2018-06-07T17:44:49.0000000Z"
+                                            },
+                                            {
+                                                "canOpen": true,
+                                                "icon": "/static/styles/overview/file-icon.png",
+                                                "id": "urn:adsk.wipprod:fs.file:vf.sqvEeO4QTWGHa7aLaKPmtg?version=1",
+                                                "text": "2018-05-01T20:22:16.0000000Z"
+                                            }
+                                        ],
+                                        "icon": "/static/styles/overview/file-icon.png",
+                                        "id": "urn:adsk.wipprod:dm.lineage:sqvEeO4QTWGHa7aLaKPmtg",
+                                        "text": "SPC1A_DC_ELEC_LIGHT.rvt"
+                                    }
+                                ],
+                                "icon": "/static/styles/overview/folder-icon.png",
+                                "id": "urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ",
+                                "text": "SPC1A"
+                            },
+                            {
+                                "canOpen": false,
+                                "icon": "/static/styles/overview/file-icon.png",
+                                "id": "urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ",
+                                "text": "CCNR Sample.rvt"
+                            },
+                            {
+                                "canOpen": false,
+                                "icon": "/static/styles/overview/file-icon.png",
+                                "id": "urn:adsk.wipprod:dm.lineage:DSU-ovTBT_a9pY88oGdq7A",
+                                "text": "Conduit Rack Sample.rvt"
+                            },
+                            {
+                                "canOpen": false,
+                                "icon": "/static/styles/overview/file-icon.png",
+                                "id": "urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug",
+                                "text": "Duct Bank Spacer Model.rvt"
+                            },
+                            {
+                                "canOpen": false,
+                                "icon": "/static/styles/overview/file-icon.png",
+                                "id": "urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ",
+                                "text": "Panel Build Sample - v2.rvt"
+                            },
+                            {
+                                "canOpen": false,
+                                "icon": "/static/styles/overview/file-icon.png",
+                                "id": "urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g",
+                                "text": "Panel Build Sample.rvt"
+                            },
+                            {
+                                "canOpen": false,
+                                "icon": "/static/styles/overview/file-icon.png",
+                                "id": "urn:adsk.wipprod:dm.lineage:9up0K3ftSnCdGibFDKCwXw",
+                                "text": "Room in a Tote Sample.rvt"
+                            },
+                            {
+                                "canOpen": false,
+                                "icon": "/static/styles/overview/file-icon.png",
+                                "id": "urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA",
+                                "text": "SPC1A_DC_ELEC_EQUIP 2.rvt"
+                            }
+                        ],
+                        "icon": "/static/styles/overview/folder-icon.png",
+                        "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg",
+                        "text": "group-23360756"
+                    }
+                ],
+                "icon": "/static/styles/overview/folder-icon.png",
+                "id": "a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx",
+                "text": "EL Sandbox 2017"
+            }
+        ],
+        "icon": "/static/styles/overview/bim360.png",
+        "id": "a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2",
+        "text": "Faith Technologies"
+    }
+]

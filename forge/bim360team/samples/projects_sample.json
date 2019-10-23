@@ -1,0 +1,193 @@
+    {
+        "jsonapi": {
+            "version": "1.0"
+        },
+        "links": {
+            "self": {
+                "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2/projects"
+            }
+        },
+        "data": [
+            {
+                "type": "projects",
+                "id": "a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx",
+                "attributes": {
+                    "name": "EL Sandbox 2017",
+                    "extension": {
+                        "type": "projects:autodesk.core:Project",
+                        "version": "1.0",
+                        "schema": {
+                            "href": "https://developer.api.autodesk.com/schema/v1/versions/projects:autodesk.core:Project-1.0"
+                        },
+                        "data": {}
+                    }
+                },
+                "links": {
+                    "self": {
+                        "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx"
+                    }
+                },
+                "relationships": {
+                    "hub": {
+                        "data": {
+                            "type": "hubs",
+                            "id": "a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2"
+                        },
+                        "links": {
+                            "related": {
+                                "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2"
+                            }
+                        }
+                    },
+                    "rootFolder": {
+                        "data": {
+                            "type": "folders",
+                            "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg"
+                        },
+                        "meta": {
+                            "link": {
+                                "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg"
+                            }
+                        }
+                    },
+                    "topFolders": {
+                        "links": {
+                            "related": {
+                                "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/topFolders"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+
+{
+        "jsonapi": {
+            "version": "1.0"
+        },
+        "links": {
+            "self": {
+                "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2/projects"
+            }
+        },
+        "data": [
+            {
+                "type": "projects",
+                "id": "a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx",
+                "attributes": {
+                    "name": "EL Sandbox 2017",
+                    "extension": {
+                        "type": "projects:autodesk.core:Project",
+                        "version": "1.0",
+                        "schema": {
+                            "href": "https://developer.api.autodesk.com/schema/v1/versions/projects:autodesk.core:Project-1.0"
+                        },
+                        "data": {}
+                    }
+                },
+                "links": {
+                    "self": {
+                        "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx"
+                    }
+                },
+                "relationships": {
+                    "hub": {
+                        "data": {
+                            "type": "hubs",
+                            "id": "a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2"
+                        },
+                        "links": {
+                            "related": {
+                                "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2"
+                            }
+                        }
+                    },
+                    "rootFolder": {
+                        "data": {
+                            "type": "folders",
+                            "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg"
+                        },
+                        "meta": {
+                            "link": {
+                                "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg"
+                            }
+                        }
+                    },
+                    "topFolders": {
+                        "links": {
+                            "related": {
+                                "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/topFolders"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+
+{
+        "jsonapi": {
+            "version": "1.0"
+        },
+        "links": {
+            "self": {
+                "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2/projects"
+            }
+        },
+        "data": [
+            {
+                "type": "projects",
+                "id": "a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx",
+                "attributes": {
+                    "name": "EL Sandbox 2017",
+                    "extension": {
+                        "type": "projects:autodesk.core:Project",
+                        "version": "1.0",
+                        "schema": {
+                            "href": "https://developer.api.autodesk.com/schema/v1/versions/projects:autodesk.core:Project-1.0"
+                        },
+                        "data": {}
+                    }
+                },
+                "links": {
+                    "self": {
+                        "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx"
+                    }
+                },
+                "relationships": {
+                    "hub": {
+                        "data": {
+                            "type": "hubs",
+                            "id": "a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2"
+                        },
+                        "links": {
+                            "related": {
+                                "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2"
+                            }
+                        }
+                    },
+                    "rootFolder": {
+                        "data": {
+                            "type": "folders",
+                            "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg"
+                        },
+                        "meta": {
+                            "link": {
+                                "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg"
+                            }
+                        }
+                    },
+                    "topFolders": {
+                        "links": {
+                            "related": {
+                                "href": "https://developer.api.autodesk.com/project/v1/hubs/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/topFolders"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+
+

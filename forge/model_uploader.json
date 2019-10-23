@@ -1,0 +1,8 @@
+{
+    "client_id": "[CLIENT_ID]",
+    "client_secret": "[CLIENT_SECRET]",
+    "bucket_key": "[BUCKET_KEY]",
+    "object_name": "[UNIQUE_OBJECT_NAME_WITH_FILE_EXTENSION]",
+    "file_path": "",
+    "project_name": "[UNIQUE_PROJECT_NAME_WITH_FILE_EXTENSION]"
+}

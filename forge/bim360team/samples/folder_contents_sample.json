@@ -1,0 +1,1212 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "createTime": "2018-05-01T14:47:27.0000000Z",
+                "createUserId": "200707241828892",
+                "createUserName": "adam.witthuhn@faithtechnologies.com",
+                "displayName": "Auto Documentation",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/folders:autodesk.core:Folder-1.0"
+                    },
+                    "type": "folders:autodesk.core:Folder",
+                    "version": "1.0"
+                },
+                "hidden": false,
+                "lastModifiedTime": "2018-05-10T20:27:09.0000000Z",
+                "lastModifiedTimeRollup": "2018-07-05T21:16:27.0000000Z",
+                "lastModifiedUserId": "DU3NRVHLG4NJ",
+                "lastModifiedUserName": "mark.mendez@evolvelab-inc.com",
+                "name": "Auto Documentation",
+                "objectCount": 3
+            },
+            "id": "urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ"
+                }
+            },
+            "relationships": {
+                "contents": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ/contents"
+                        }
+                    }
+                },
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ/relationships/links"
+                        }
+                    }
+                },
+                "parent": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg",
+                        "type": "folders"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ/parent"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.lYJptXMIQU-IpluFhLLlbQ/relationships/refs"
+                        }
+                    }
+                }
+            },
+            "type": "folders"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-05-01T14:47:37.0000000Z",
+                "createUserId": "200707241828892",
+                "createUserName": "adam.witthuhn@faithtechnologies.com",
+                "displayName": "SPC1A",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/folders:autodesk.core:Folder-1.0"
+                    },
+                    "type": "folders:autodesk.core:Folder",
+                    "version": "1.0"
+                },
+                "hidden": false,
+                "lastModifiedTime": "2018-06-01T18:49:48.0000000Z",
+                "lastModifiedTimeRollup": "2018-06-07T18:18:30.0000000Z",
+                "lastModifiedUserId": "200707241828892",
+                "lastModifiedUserName": "adam.witthuhn@faithtechnologies.com",
+                "name": "SPC1A",
+                "objectCount": 4
+            },
+            "id": "urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ"
+                }
+            },
+            "relationships": {
+                "contents": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ/contents"
+                        }
+                    }
+                },
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ/relationships/links"
+                        }
+                    }
+                },
+                "parent": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg",
+                        "type": "folders"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ/parent"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.W7vyeo4VSGeaVnYX_tTUbQ/relationships/refs"
+                        }
+                    }
+                }
+            },
+            "type": "folders"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-07-17T20:09:27.0000000Z",
+                "createUserId": "VVMVPFAU756E",
+                "createUserName": "",
+                "displayName": "CCNR Sample.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/items:autodesk.core:File-1.0"
+                    },
+                    "type": "items:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "hidden": false,
+                "lastModifiedTime": "2018-07-17T23:01:00.0000000Z",
+                "lastModifiedUserId": "VVMVPFAU756E",
+                "lastModifiedUserName": "",
+                "reserved": false
+            },
+            "id": "urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ"
+                }
+            },
+            "relationships": {
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ/relationships/links"
+                        }
+                    }
+                },
+                "parent": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg",
+                        "type": "folders"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ/parent"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ/relationships/refs"
+                        }
+                    }
+                },
+                "tip": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.file:vf._V8fceviRFGdzAfBPQxmWQ?version=2",
+                        "type": "versions"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ/tip"
+                        }
+                    }
+                },
+                "versions": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ/versions"
+                        }
+                    }
+                }
+            },
+            "type": "items"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-07-12T21:19:49.0000000Z",
+                "createUserId": "VVMVPFAU756E",
+                "createUserName": "",
+                "displayName": "Duct Bank Spacer Model.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/items:autodesk.core:File-1.0"
+                    },
+                    "type": "items:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "hidden": false,
+                "lastModifiedTime": "2018-07-13T13:10:36.0000000Z",
+                "lastModifiedUserId": "VVMVPFAU756E",
+                "lastModifiedUserName": "",
+                "reserved": false
+            },
+            "id": "urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug"
+                }
+            },
+            "relationships": {
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug/relationships/links"
+                        }
+                    }
+                },
+                "parent": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg",
+                        "type": "folders"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug/parent"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug/relationships/refs"
+                        }
+                    }
+                },
+                "tip": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.file:vf.LfWFk0nZTtanX9EhOnA4ug?version=2",
+                        "type": "versions"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug/tip"
+                        }
+                    }
+                },
+                "versions": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug/versions"
+                        }
+                    }
+                }
+            },
+            "type": "items"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-07-03T19:22:09.0000000Z",
+                "createUserId": "DU3NRVHLG4NJ",
+                "createUserName": "mark.mendez@evolvelab-inc.com",
+                "displayName": "Panel Build Sample - v2.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/items:autodesk.core:File-1.0"
+                    },
+                    "type": "items:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "hidden": false,
+                "lastModifiedTime": "2018-07-05T21:03:35.0000000Z",
+                "lastModifiedUserId": "DU3NRVHLG4NJ",
+                "lastModifiedUserName": "mark.mendez@evolvelab-inc.com",
+                "reserved": false
+            },
+            "id": "urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ"
+                }
+            },
+            "relationships": {
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ/relationships/links"
+                        }
+                    }
+                },
+                "parent": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg",
+                        "type": "folders"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ/parent"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ/relationships/refs"
+                        }
+                    }
+                },
+                "tip": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.file:vf.GnEyZ0HHRqKZzhvN_8UkrQ?version=1",
+                        "type": "versions"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ/tip"
+                        }
+                    }
+                },
+                "versions": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ/versions"
+                        }
+                    }
+                }
+            },
+            "type": "items"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-06-15T13:39:04.0000000Z",
+                "createUserId": "VVMVPFAU756E",
+                "createUserName": "",
+                "displayName": "Panel Build Sample.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/items:autodesk.core:File-1.0"
+                    },
+                    "type": "items:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "hidden": false,
+                "lastModifiedTime": "2018-07-05T21:29:03.0000000Z",
+                "lastModifiedUserId": "200707241828892",
+                "lastModifiedUserName": "",
+                "reserved": false
+            },
+            "id": "urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g"
+                }
+            },
+            "relationships": {
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g/relationships/links"
+                        }
+                    }
+                },
+                "parent": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg",
+                        "type": "folders"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g/parent"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g/relationships/refs"
+                        }
+                    }
+                },
+                "tip": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.file:vf.W0W3nIWeQvmNBpkZhe3Z2g?version=3",
+                        "type": "versions"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g/tip"
+                        }
+                    }
+                },
+                "versions": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g/versions"
+                        }
+                    }
+                }
+            },
+            "type": "items"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-06-07T16:47:32.0000000Z",
+                "createUserId": "200707241828892",
+                "createUserName": "",
+                "displayName": "Room in a Tote Sample.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/items:autodesk.core:File-1.0"
+                    },
+                    "type": "items:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "hidden": false,
+                "lastModifiedTime": "2018-06-07T18:39:04.0000000Z",
+                "lastModifiedUserId": "200707241828892",
+                "lastModifiedUserName": "",
+                "reserved": false
+            },
+            "id": "urn:adsk.wipprod:dm.lineage:9up0K3ftSnCdGibFDKCwXw",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:9up0K3ftSnCdGibFDKCwXw"
+                }
+            },
+            "relationships": {
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:9up0K3ftSnCdGibFDKCwXw/relationships/links"
+                        }
+                    }
+                },
+                "parent": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg",
+                        "type": "folders"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:9up0K3ftSnCdGibFDKCwXw/parent"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:9up0K3ftSnCdGibFDKCwXw/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:9up0K3ftSnCdGibFDKCwXw/relationships/refs"
+                        }
+                    }
+                },
+                "tip": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.file:vf.9up0K3ftSnCdGibFDKCwXw?version=2",
+                        "type": "versions"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:9up0K3ftSnCdGibFDKCwXw/tip"
+                        }
+                    }
+                },
+                "versions": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:9up0K3ftSnCdGibFDKCwXw/versions"
+                        }
+                    }
+                }
+            },
+            "type": "items"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-06-01T18:51:04.0000000Z",
+                "createUserId": "200707241828892",
+                "createUserName": "",
+                "displayName": "SPC1A_DC_ELEC_EQUIP 2.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/items:autodesk.core:File-1.0"
+                    },
+                    "type": "items:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "hidden": false,
+                "lastModifiedTime": "2018-06-15T18:34:37.0000000Z",
+                "lastModifiedUserId": "VVMVPFAU756E",
+                "lastModifiedUserName": "",
+                "reserved": false
+            },
+            "id": "urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA"
+                }
+            },
+            "relationships": {
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA/relationships/links"
+                        }
+                    }
+                },
+                "parent": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg",
+                        "type": "folders"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA/parent"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA/relationships/refs"
+                        }
+                    }
+                },
+                "tip": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:fs.file:vf.t32pOe6bQ9-zuElZvggcPA?version=3",
+                        "type": "versions"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA/tip"
+                        }
+                    }
+                },
+                "versions": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/items/urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA/versions"
+                        }
+                    }
+                }
+            },
+            "type": "items"
+        }
+    ],
+    "included": [
+        {
+            "attributes": {
+                "createTime": "2018-07-17T22:53:41.0000000Z",
+                "createUserId": "VVMVPFAU756E",
+                "createUserName": "",
+                "displayName": "CCNR Sample.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/versions:autodesk.core:File-1.0"
+                    },
+                    "type": "versions:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "fileType": "rvt",
+                "lastModifiedTime": "2018-07-17T23:01:00.0000000Z",
+                "lastModifiedUserId": "VVMVPFAU756E",
+                "lastModifiedUserName": "",
+                "mimeType": "application/vnd.autodesk.r360",
+                "name": "CCNR Sample.rvt",
+                "storageSize": 170618880,
+                "versionNumber": 2
+            },
+            "id": "urn:adsk.wipprod:fs.file:vf._V8fceviRFGdzAfBPQxmWQ?version=2",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf._V8fceviRFGdzAfBPQxmWQ%3Fversion=2"
+                }
+            },
+            "relationships": {
+                "derivatives": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLl9WOGZjZXZpUkZHZHpBZkJQUXhtV1E_dmVyc2lvbj0y",
+                        "type": "derivatives"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLl9WOGZjZXZpUkZHZHpBZkJQUXhtV1E_dmVyc2lvbj0y/manifest"
+                        }
+                    }
+                },
+                "downloadFormats": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf._V8fceviRFGdzAfBPQxmWQ%3Fversion=2/downloadFormats"
+                        }
+                    }
+                },
+                "item": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:dm.lineage:_V8fceviRFGdzAfBPQxmWQ",
+                        "type": "items"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf._V8fceviRFGdzAfBPQxmWQ%3Fversion=2/item"
+                        }
+                    }
+                },
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf._V8fceviRFGdzAfBPQxmWQ%3Fversion=2/relationships/links"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf._V8fceviRFGdzAfBPQxmWQ%3Fversion=2/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf._V8fceviRFGdzAfBPQxmWQ%3Fversion=2/relationships/refs"
+                        }
+                    }
+                },
+                "storage": {
+                    "data": {
+                        "id": "urn:adsk.objects:os.object:wip.dm.prod/6900f749-47ff-4b87-b5fc-3c72cebb904b.rvt",
+                        "type": "objects"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/oss/v2/buckets/wip.dm.prod/objects/6900f749-47ff-4b87-b5fc-3c72cebb904b.rvt"
+                        }
+                    }
+                },
+                "thumbnails": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLl9WOGZjZXZpUkZHZHpBZkJQUXhtV1E_dmVyc2lvbj0y",
+                        "type": "thumbnails"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLl9WOGZjZXZpUkZHZHpBZkJQUXhtV1E_dmVyc2lvbj0y/thumbnail"
+                        }
+                    }
+                }
+            },
+            "type": "versions"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-07-13T13:09:39.0000000Z",
+                "createUserId": "VVMVPFAU756E",
+                "createUserName": "",
+                "displayName": "Duct Bank Spacer Model.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/versions:autodesk.core:File-1.0"
+                    },
+                    "type": "versions:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "fileType": "rvt",
+                "lastModifiedTime": "2018-07-13T13:10:36.0000000Z",
+                "lastModifiedUserId": "VVMVPFAU756E",
+                "lastModifiedUserName": "",
+                "mimeType": "application/vnd.autodesk.r360",
+                "name": "Duct Bank Spacer Model.rvt",
+                "storageSize": 18264064,
+                "versionNumber": 2
+            },
+            "id": "urn:adsk.wipprod:fs.file:vf.LfWFk0nZTtanX9EhOnA4ug?version=2",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.LfWFk0nZTtanX9EhOnA4ug%3Fversion=2"
+                }
+            },
+            "relationships": {
+                "derivatives": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLkxmV0ZrMG5aVHRhblg5RWhPbkE0dWc_dmVyc2lvbj0y",
+                        "type": "derivatives"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLkxmV0ZrMG5aVHRhblg5RWhPbkE0dWc_dmVyc2lvbj0y/manifest"
+                        }
+                    }
+                },
+                "downloadFormats": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.LfWFk0nZTtanX9EhOnA4ug%3Fversion=2/downloadFormats"
+                        }
+                    }
+                },
+                "item": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:dm.lineage:LfWFk0nZTtanX9EhOnA4ug",
+                        "type": "items"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.LfWFk0nZTtanX9EhOnA4ug%3Fversion=2/item"
+                        }
+                    }
+                },
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.LfWFk0nZTtanX9EhOnA4ug%3Fversion=2/relationships/links"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.LfWFk0nZTtanX9EhOnA4ug%3Fversion=2/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.LfWFk0nZTtanX9EhOnA4ug%3Fversion=2/relationships/refs"
+                        }
+                    }
+                },
+                "storage": {
+                    "data": {
+                        "id": "urn:adsk.objects:os.object:wip.dm.prod/61d33b74-d3c2-4dd0-bdfc-9e193316c207.rvt",
+                        "type": "objects"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/oss/v2/buckets/wip.dm.prod/objects/61d33b74-d3c2-4dd0-bdfc-9e193316c207.rvt"
+                        }
+                    }
+                },
+                "thumbnails": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLkxmV0ZrMG5aVHRhblg5RWhPbkE0dWc_dmVyc2lvbj0y",
+                        "type": "thumbnails"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLkxmV0ZrMG5aVHRhblg5RWhPbkE0dWc_dmVyc2lvbj0y/thumbnail"
+                        }
+                    }
+                }
+            },
+            "type": "versions"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-07-03T19:22:09.0000000Z",
+                "createUserId": "DU3NRVHLG4NJ",
+                "createUserName": "mark.mendez@evolvelab-inc.com",
+                "displayName": "Panel Build Sample - v2.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/versions:autodesk.core:File-1.0"
+                    },
+                    "type": "versions:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "fileType": "rvt",
+                "lastModifiedTime": "2018-07-05T21:03:35.0000000Z",
+                "lastModifiedUserId": "DU3NRVHLG4NJ",
+                "lastModifiedUserName": "mark.mendez@evolvelab-inc.com",
+                "mimeType": "application/vnd.autodesk.revit",
+                "name": "Panel Build Sample - v2.rvt",
+                "storageSize": 35721216,
+                "versionNumber": 1
+            },
+            "id": "urn:adsk.wipprod:fs.file:vf.GnEyZ0HHRqKZzhvN_8UkrQ?version=1",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.GnEyZ0HHRqKZzhvN_8UkrQ%3Fversion=1"
+                }
+            },
+            "relationships": {
+                "derivatives": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLkduRXlaMEhIUnFLWnpodk5fOFVrclE_dmVyc2lvbj0x",
+                        "type": "derivatives"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLkduRXlaMEhIUnFLWnpodk5fOFVrclE_dmVyc2lvbj0x/manifest"
+                        }
+                    }
+                },
+                "downloadFormats": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.GnEyZ0HHRqKZzhvN_8UkrQ%3Fversion=1/downloadFormats"
+                        }
+                    }
+                },
+                "item": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:dm.lineage:GnEyZ0HHRqKZzhvN_8UkrQ",
+                        "type": "items"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.GnEyZ0HHRqKZzhvN_8UkrQ%3Fversion=1/item"
+                        }
+                    }
+                },
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.GnEyZ0HHRqKZzhvN_8UkrQ%3Fversion=1/relationships/links"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.GnEyZ0HHRqKZzhvN_8UkrQ%3Fversion=1/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.GnEyZ0HHRqKZzhvN_8UkrQ%3Fversion=1/relationships/refs"
+                        }
+                    }
+                },
+                "storage": {
+                    "data": {
+                        "id": "urn:adsk.objects:os.object:wip.dm.prod/4bc0a574-3955-49bf-9c1a-2993845b644d.rvt",
+                        "type": "objects"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/oss/v2/buckets/wip.dm.prod/objects/4bc0a574-3955-49bf-9c1a-2993845b644d.rvt"
+                        }
+                    }
+                },
+                "thumbnails": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLkduRXlaMEhIUnFLWnpodk5fOFVrclE_dmVyc2lvbj0x",
+                        "type": "thumbnails"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLkduRXlaMEhIUnFLWnpodk5fOFVrclE_dmVyc2lvbj0x/thumbnail"
+                        }
+                    }
+                }
+            },
+            "type": "versions"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-07-05T21:27:58.0000000Z",
+                "createUserId": "200707241828892",
+                "createUserName": "",
+                "displayName": "Panel Build Sample.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/versions:autodesk.core:File-1.0"
+                    },
+                    "type": "versions:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "fileType": "rvt",
+                "lastModifiedTime": "2018-07-05T21:29:03.0000000Z",
+                "lastModifiedUserId": "200707241828892",
+                "lastModifiedUserName": "",
+                "mimeType": "application/vnd.autodesk.r360",
+                "name": "Panel Build Sample.rvt",
+                "storageSize": 22560768,
+                "versionNumber": 3
+            },
+            "id": "urn:adsk.wipprod:fs.file:vf.W0W3nIWeQvmNBpkZhe3Z2g?version=3",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.W0W3nIWeQvmNBpkZhe3Z2g%3Fversion=3"
+                }
+            },
+            "relationships": {
+                "derivatives": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLlcwVzNuSVdlUXZtTkJwa1poZTNaMmc_dmVyc2lvbj0z",
+                        "type": "derivatives"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLlcwVzNuSVdlUXZtTkJwa1poZTNaMmc_dmVyc2lvbj0z/manifest"
+                        }
+                    }
+                },
+                "downloadFormats": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.W0W3nIWeQvmNBpkZhe3Z2g%3Fversion=3/downloadFormats"
+                        }
+                    }
+                },
+                "item": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:dm.lineage:W0W3nIWeQvmNBpkZhe3Z2g",
+                        "type": "items"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.W0W3nIWeQvmNBpkZhe3Z2g%3Fversion=3/item"
+                        }
+                    }
+                },
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.W0W3nIWeQvmNBpkZhe3Z2g%3Fversion=3/relationships/links"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.W0W3nIWeQvmNBpkZhe3Z2g%3Fversion=3/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.W0W3nIWeQvmNBpkZhe3Z2g%3Fversion=3/relationships/refs"
+                        }
+                    }
+                },
+                "storage": {
+                    "data": {
+                        "id": "urn:adsk.objects:os.object:wip.dm.prod/1c73ea28-a04f-4708-92b6-e62b499f3134.rvt",
+                        "type": "objects"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/oss/v2/buckets/wip.dm.prod/objects/1c73ea28-a04f-4708-92b6-e62b499f3134.rvt"
+                        }
+                    }
+                },
+                "thumbnails": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLlcwVzNuSVdlUXZtTkJwa1poZTNaMmc_dmVyc2lvbj0z",
+                        "type": "thumbnails"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLlcwVzNuSVdlUXZtTkJwa1poZTNaMmc_dmVyc2lvbj0z/thumbnail"
+                        }
+                    }
+                }
+            },
+            "type": "versions"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-06-07T17:44:27.0000000Z",
+                "createUserId": "200707241828892",
+                "createUserName": "",
+                "displayName": "Room in a Tote Sample.rvt",
+                "extension": {
+                    "data": {
+                        "parentFile": "Room in a Tote Sample.rvt"
+                    },
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/versions:autodesk.a360:CompositeDesign-1.0"
+                    },
+                    "type": "versions:autodesk.a360:CompositeDesign",
+                    "version": "1.0"
+                },
+                "fileType": "rvt",
+                "lastModifiedTime": "2018-06-07T18:39:04.0000000Z",
+                "lastModifiedUserId": "200707241828892",
+                "lastModifiedUserName": "",
+                "mimeType": "application/vnd.autodesk.r360",
+                "name": "Room in a Tote Sample.rvt",
+                "storageSize": 909635584,
+                "versionNumber": 2
+            },
+            "id": "urn:adsk.wipprod:fs.file:vf.9up0K3ftSnCdGibFDKCwXw?version=2",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.9up0K3ftSnCdGibFDKCwXw%3Fversion=2"
+                }
+            },
+            "relationships": {
+                "derivatives": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLjl1cDBLM2Z0U25DZEdpYkZES0N3WHc_dmVyc2lvbj0y",
+                        "type": "derivatives"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLjl1cDBLM2Z0U25DZEdpYkZES0N3WHc_dmVyc2lvbj0y/manifest"
+                        }
+                    }
+                },
+                "downloadFormats": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.9up0K3ftSnCdGibFDKCwXw%3Fversion=2/downloadFormats"
+                        }
+                    }
+                },
+                "item": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:dm.lineage:9up0K3ftSnCdGibFDKCwXw",
+                        "type": "items"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.9up0K3ftSnCdGibFDKCwXw%3Fversion=2/item"
+                        }
+                    }
+                },
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.9up0K3ftSnCdGibFDKCwXw%3Fversion=2/relationships/links"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.9up0K3ftSnCdGibFDKCwXw%3Fversion=2/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.9up0K3ftSnCdGibFDKCwXw%3Fversion=2/relationships/refs"
+                        }
+                    }
+                },
+                "storage": {
+                    "data": {
+                        "id": "urn:adsk.objects:os.object:wip.dm.prod/75d89bf7-d748-4399-9e4f-e0521e14e376.rvt",
+                        "type": "objects"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/oss/v2/buckets/wip.dm.prod/objects/75d89bf7-d748-4399-9e4f-e0521e14e376.rvt"
+                        }
+                    }
+                },
+                "thumbnails": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLjl1cDBLM2Z0U25DZEdpYkZES0N3WHc_dmVyc2lvbj0y",
+                        "type": "thumbnails"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLjl1cDBLM2Z0U25DZEdpYkZES0N3WHc_dmVyc2lvbj0y/thumbnail"
+                        }
+                    }
+                }
+            },
+            "type": "versions"
+        },
+        {
+            "attributes": {
+                "createTime": "2018-06-15T18:34:20.0000000Z",
+                "createUserId": "VVMVPFAU756E",
+                "createUserName": "",
+                "displayName": "SPC1A_DC_ELEC_EQUIP 2.rvt",
+                "extension": {
+                    "data": {},
+                    "schema": {
+                        "href": "https://developer.api.autodesk.com/schema/v1/versions/versions:autodesk.core:File-1.0"
+                    },
+                    "type": "versions:autodesk.core:File",
+                    "version": "1.0"
+                },
+                "fileType": "rvt",
+                "lastModifiedTime": "2018-06-15T18:34:37.0000000Z",
+                "lastModifiedUserId": "VVMVPFAU756E",
+                "lastModifiedUserName": "",
+                "mimeType": "application/vnd.autodesk.r360",
+                "name": "SPC1A_DC_ELEC_EQUIP 2.rvt",
+                "storageSize": 924454912,
+                "versionNumber": 3
+            },
+            "id": "urn:adsk.wipprod:fs.file:vf.t32pOe6bQ9-zuElZvggcPA?version=3",
+            "links": {
+                "self": {
+                    "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.t32pOe6bQ9-zuElZvggcPA%3Fversion=3"
+                }
+            },
+            "relationships": {
+                "derivatives": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLnQzMnBPZTZiUTktenVFbFp2Z2djUEE_dmVyc2lvbj0z",
+                        "type": "derivatives"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLnQzMnBPZTZiUTktenVFbFp2Z2djUEE_dmVyc2lvbj0z/manifest"
+                        }
+                    }
+                },
+                "downloadFormats": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.t32pOe6bQ9-zuElZvggcPA%3Fversion=3/downloadFormats"
+                        }
+                    }
+                },
+                "item": {
+                    "data": {
+                        "id": "urn:adsk.wipprod:dm.lineage:t32pOe6bQ9-zuElZvggcPA",
+                        "type": "items"
+                    },
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.t32pOe6bQ9-zuElZvggcPA%3Fversion=3/item"
+                        }
+                    }
+                },
+                "links": {
+                    "links": {
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.t32pOe6bQ9-zuElZvggcPA%3Fversion=3/relationships/links"
+                        }
+                    }
+                },
+                "refs": {
+                    "links": {
+                        "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.t32pOe6bQ9-zuElZvggcPA%3Fversion=3/refs"
+                        },
+                        "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/versions/urn:adsk.wipprod:fs.file:vf.t32pOe6bQ9-zuElZvggcPA%3Fversion=3/relationships/refs"
+                        }
+                    }
+                },
+                "storage": {
+                    "data": {
+                        "id": "urn:adsk.objects:os.object:wip.dm.prod/39d23238-aeb0-4169-b0ab-8f6d631944a4.rvt",
+                        "type": "objects"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/oss/v2/buckets/wip.dm.prod/objects/39d23238-aeb0-4169-b0ab-8f6d631944a4.rvt"
+                        }
+                    }
+                },
+                "thumbnails": {
+                    "data": {
+                        "id": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLnQzMnBPZTZiUTktenVFbFp2Z2djUEE_dmVyc2lvbj0z",
+                        "type": "thumbnails"
+                    },
+                    "meta": {
+                        "link": {
+                            "href": "https://developer.api.autodesk.com/modelderivative/v2/designdata/dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLnQzMnBPZTZiUTktenVFbFp2Z2djUEE_dmVyc2lvbj0z/thumbnail"
+                        }
+                    }
+                }
+            },
+            "type": "versions"
+        }
+    ],
+    "jsonapi": {
+        "version": "1.0"
+    },
+    "links": {
+        "self": {
+            "href": "https://developer.api.autodesk.com/data/v1/projects/a.YnVzaW5lc3M6ZmFpdGh0ZWNobm9sb2dpZXM2IzIwMTgwNTAxMTMwMDQzNjAx/folders/urn:adsk.wipprod:fs.folder:co.lyOleuWqRCyg5m467mKNxg/contents"
+        }
+    }
+}
