@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "jest",
+    "build": "node_modules/.bin/webpack && flask run"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "eslint": "^6.5.1",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8"
+  },
+  "dependencies": {}
+}
