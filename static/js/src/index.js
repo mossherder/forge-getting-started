@@ -1,12 +1,11 @@
-/* global document */
 /* global window */
-/* global Autodesk */
+/* global console */
 import ForgeViewer from './ForgeViewer.js';
 
-const forgeViewerDivId = 'forge-viewer'; //HTML Element Id
+const forgeViewerDivId = 'forge-viewer'; // HTML Element Id
 
 const viewerConfig = {
-  'extensions': []
+  'extensions': [],
 };
 
 const getModelData = $.ajax({
@@ -22,8 +21,11 @@ getModelData.done(function(data) {
       false,
       null // can replace with viewerConfig
   );
-  window.addEventListener(viewer.VIEWER_READY, () => {console.log('Viewer Ready - Model Loaded')},
+  window.addEventListener(viewer.VIEWER_READY, () => {
+    console.log('Viewer Ready - Model Loaded');
+  },
   {
     'once': true,
-  });
+  }
+  );
 });
